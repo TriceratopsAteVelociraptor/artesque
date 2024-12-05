@@ -1,0 +1,26 @@
+{
+"c2array":"true",
+"size":[20,5,1],
+"data":[
+[[0],["Albrecht Altdorfer"],["The Battle of Alexander at Issus"],[1],[0]],
+[[1],["Sandro Botticelli"],["Primavera"],[1],[0]],
+[[2],["Caspar David Friedrich"],["Polar Sea"],[1],[0]],
+[[3],["Claude Monet"],["Impression, soleil levant""],[1],[0]],
+[[4],["Anonymous (Ethiopia)"],["John the Evangelist"],[1],[0]],
+[[5],["Georges Seurat"],["La Grande Jatte"],[1],[0]],
+[[6],["Francisco Goya"],["La maja desnuda"],[1],[0]],
+[[7],["Gustav Klimt"],["The Kiss"],[1],[0]],
+[[8],["Hasegawa Tohaku"],["Pine Trees"],[1],[0]],
+[[9],["Henry Ossawa Tanner"],["Gateway"],[1],[0]],
+[[10],["Robert Hubert"],["The Destruction Of A Church"],[1],[0]],
+[[11],["Marie Denise Villers"],["Young Woman Drawing"],[1],[0]],
+[[12],["Peter Paul Rubens"],["Fall of the Damned"],[1],[0]],
+[[13],["Pablo Picasso"],["The Weeping Woman"],[1],[0]],
+[[14],["Raja Ravi Varma"],["Mahabharata Shakuntala"],[1],[0]],
+[[15],["Robert Delaunay"],["Windows Open Simultaneously"],[1],[0]],
+[[16],["Qiu Ying"],["Spring Morning in the Han Palace"],[1],[0]],
+[[17],["Wassily Kandinsky"],["Aquarell 6"],[1],[0]],
+[[18],["Natalia Goncharova"],["The Cyclist"],[1],[0]],
+[[19],["Henry Scott Tuke"],["T. E. Lawrence as a cadet..."],[1],[0]]
+]
+}
